@@ -1,0 +1,12 @@
+/* Media query for screens with a minimum width of 1536px or 96em */
+@media (min-width: 96em) {
+    /* Adjust styles for large screens here */
+    .flex-col.md\\:flex-row {
+      flex-direction: row;
+      background-color: orange;
+    }
+
+
+
+  }
+  

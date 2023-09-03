@@ -1,0 +1,36 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+
+/* .gdSmoV {
+    position: fixed !important;
+    bottom: 0px !important;
+    left: 0px !important;
+    height: calc(120px) !important;
+    max-height: 100vh !important;
+    pointer-events: none !important;
+    display: flex !important;
+    flex-direction: row !important;
+    -webkit-box-pack: center !important;
+    justify-content: center !important;
+    z-index: 50 !important;
+} */
+
+/* .PushToTalkContainer {
+    position: fixed;
+    box-sizing: border-box;
+    bottom: 0;
+    left: 100px;
+    right: 0;
+    max-height: 100vh;
+    padding: 0 0 3rem 0;
+    pointer-events: none;
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    z-index: 50;
+  } */
+    
+  
